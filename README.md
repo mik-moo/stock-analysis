@@ -16,11 +16,11 @@ The orignal code looped through the data multiple times to collect the data we n
 
 The refactored code for the year 2017 ran in  0.1757813 seconds and the original code for that year ran in 0.96875 seconds.
 
-![VBA_Challenge_2017](Resources%20VBA_Challenge_2017.PNG)
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
 
 The refactored code for year 2018 ran in 0.1328125 seconds and the orignal returned a time of 0.9492188 seconds.  Both years were improved by approximately 0.8 seconds.
 
-![VBA_Challenge_2018](Resources%20VBA_Challenge_2018.PNG)
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
 
 Refactoring code is useful to make code more efficient and clean.  The first code when working on a project is like a "rough draft".  Just like writing a report or article, the final draft is usually an improvement and flows better to more efficiently get your point across. Refactoring code is similar to this. It's an opportunity to improve.  With refactoring, the code may become easier to read and understand and also make it easier for the analyst doing the quality check on that code. Starting out as a new coder, the original code may be more intuitive and allow the person to move step by step to get to the answer needed.  It may be easier to find small mistakes as you build piece by piece.
 
